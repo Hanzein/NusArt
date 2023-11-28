@@ -3,10 +3,10 @@
 A smart way to identify paintings based on their type and era
 
 # About
-
+NusArt is a mobile app designed to simplify art appreciation. Using image recognition and machine learning, it quickly classifies paintings, helping users identify the era and style. From Renaissance to Cubism, NusArt aims to make art education accessible, bridging the knowledge gap and enhancing users' art experiences.
 
 # Bangkit Product-based Capstone Project
-NusArt is built as a requirement for Bangkit 2022's Product-based Capstone Project. This repository is built as an all-in-one access for every repositories used by this project (links to each repo are included below).
+NusArt is built as a requirement for Bangkit Academy 2023's Batch 2 Product-based Capstone Project. This repository is built as an all-in-one access for every repositories used by this project (links to each repo are included below).
 
 # Team Members
 Member  | Student ID | Path  | Contacts
@@ -22,8 +22,6 @@ Haidar Alfarisi | A288BSY2112 | Mobile Development | [Linkedin](https://www.link
 # Repositories
 Path | Link 
 ------------- | -------------
-Mobile Development | [Github](https://www.linkedin.com/in/farhanadinugraha07/)
+Mobile Development | [Github](https://github.com/haidaralfarisi/NusArt-MD)
 Machine Learning | [Github](https://www.linkedin.com/in/farhanadinugraha07/)
 Cloud Computing | [Github](https://www.linkedin.com/in/farhanadinugraha07/)
-
-# License
