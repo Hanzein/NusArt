@@ -23,5 +23,5 @@ Haidar Alfarisi | A288BSY2112 | Mobile Development | [Linkedin](https://www.link
 Path | Link 
 ------------- | -------------
 Mobile Development | [Github](https://github.com/haidaralfarisi/NusArt-MD)
-Machine Learning | [Github](https://www.linkedin.com/in/farhanadinugraha07/)
-Cloud Computing | [Github](https://www.linkedin.com/in/farhanadinugraha07/)
+Machine Learning | [Github](https://github.com/zidnyyasrah/NusArt-ML)
+Cloud Computing | [Github](https://github.com/rifqipr/nusart-spine)
