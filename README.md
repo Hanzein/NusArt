@@ -1,5 +1,3 @@
-
-![mylogo](https://github.com/Hanzein/NusArt/assets/107041928/1a313c4b-1a96-42cd-b5f5-945997c30e95)
 ![mylogo2](https://github.com/Hanzein/NusArt/assets/107041928/f5f08d17-fe6d-4fe7-a161-ac892331b8ba)
 
 
