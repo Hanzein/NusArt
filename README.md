@@ -1,4 +1,7 @@
-# NusArt (Nusantara Art)
+
+![mylogo](https://github.com/Hanzein/NusArt/assets/107041928/1a313c4b-1a96-42cd-b5f5-945997c30e95)
+
+# NusArt (Nusantara Artc
 
 A smart way to identify paintings based on their type and era
 
