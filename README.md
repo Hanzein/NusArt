@@ -12,9 +12,9 @@ NusArt is built as a requirement for Bangkit Academy 2023's Batch 2 Product-base
 Member  | Student ID | Path  | Contacts
 ------------- | ------------- | ------------- | -------------
 Zidny Yasrah Sallum  | M013BSY0036 | Machine Learning | [Linkedin](https://www.linkedin.com/in/zidnyyasrah/) , [Github](https://github.com/zidnyyasrah)
-Anisya Safira  |  M180BSX0092 | Machine Learning | [Linkedin](https://www.linkedin.com/in/anisyasafira/) , [Github](https://github.com/haidaralfarisi)
+Anisya Safira  |  M180BSX0092 | Machine Learning | [Linkedin](https://www.linkedin.com/in/anisyasafira/) , [Github](https://github.com/anisyasafiraa)
 Gagah Pusoko Adilaga  | M200BSY1600 | Machine Learning | [Linkedin](https://www.linkedin.com/in/gagah-pusoko-adilaga/) , [Github](https://github.com/haidaralfarisi)
-Zulfikar Hilman Prayogo  | C156BSY4385 | Cloud Computing | [Linkedin](https://www.linkedin.com/in/zulfikarhp/) , [Github](https://github.com/haidaralfarisi)
+Zulfikar Hilman Prayogo  | C156BSY4385 | Cloud Computing | [Linkedin](https://www.linkedin.com/in/zulfikarhp/) , [Github](https://github.com/hilmanpry)
 Muhammad Rifqi Praditya | C010BSY3507 | Cloud Computing | [Linkedin](https://www.linkedin.com/in/muhammad-rifqi-praditya-3254771b9/) , [Github](https://github.com/rifqipr)
 Farhan Adi Nugraha | A128BSY2138 | Mobile Development | [Linkedin](https://www.linkedin.com/in/farhanadinugraha07/) , [Github](https://github.com/Hanzein)
 Haidar Alfarisi | A288BSY2112 | Mobile Development | [Linkedin](https://www.linkedin.com/in/haidar-alfarisi/) , [Github](https://github.com/haidaralfarisi)
